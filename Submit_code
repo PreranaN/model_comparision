@@ -83,5 +83,4 @@ for i in range(m):
 r2_model2=1-(ss_r/ss_t)
 print(r2_model2)
 1.0
-Also we can see that the accuracy is better in Model 2. Hence by considering accuracy and RMSE value we can conclude that Model 2 is better.
 ​
